@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.9cfc3cd4.js",
-    "static/js/787.b43d7498.chunk.js": "/static/js/787.b43d7498.chunk.js",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.9cfc3cd4.js.map": "/static/js/main.9cfc3cd4.js.map",
-    "787.b43d7498.chunk.js.map": "/static/js/787.b43d7498.chunk.js.map"
+    "main.css": "https://ashishranjan9585.github.io/greetapp/static/css/main.073c9b0a.css",
+    "main.js": "https://ashishranjan9585.github.io/greetapp/static/js/main.59e3155f.js",
+    "static/js/787.b43d7498.chunk.js": "https://ashishranjan9585.github.io/greetapp/static/js/787.b43d7498.chunk.js",
+    "index.html": "https://ashishranjan9585.github.io/greetapp/index.html",
+    "main.073c9b0a.css.map": "https://ashishranjan9585.github.io/greetapp/static/css/main.073c9b0a.css.map",
+    "main.59e3155f.js.map": "https://ashishranjan9585.github.io/greetapp/static/js/main.59e3155f.js.map",
+    "787.b43d7498.chunk.js.map": "https://ashishranjan9585.github.io/greetapp/static/js/787.b43d7498.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.9cfc3cd4.js"
+    "static/js/main.59e3155f.js"
   ]
 }
